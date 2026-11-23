@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "bce78d3af0a6182737bd0bd9a0d87490",
+    "content-hash": "a4493077829364122c4ce00760cd7238",
     "packages": [
         {
             "name": "aws/aws-crt-php",
@@ -5454,16 +5454,16 @@
         },
         {
             "name": "nystudio107/craft-seomatic",
-            "version": "5.1.22",
+            "version": "5.1.23",
             "source": {
                 "type": "git",
                 "url": "https://github.com/nystudio107/craft-seomatic.git",
-                "reference": "cab0fe84ec5317172fd5627999b5b5b5067ab38d"
+                "reference": "a8db3684a8be6189847cd71a5af7333379f007e5"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/nystudio107/craft-seomatic/zipball/cab0fe84ec5317172fd5627999b5b5b5067ab38d",
-                "reference": "cab0fe84ec5317172fd5627999b5b5b5067ab38d",
+                "url": "https://api.github.com/repos/nystudio107/craft-seomatic/zipball/a8db3684a8be6189847cd71a5af7333379f007e5",
+                "reference": "a8db3684a8be6189847cd71a5af7333379f007e5",
                 "shasum": ""
             },
             "require": {
@@ -5548,8 +5548,8 @@
                     "type": "github"
                 }
             ],
-            "time": "2026-07-30T19:56:33+00:00",
-            "published-time": "2026-07-30T19:56:46+00:00"
+            "time": "2026-11-23T20:26:41+00:00",
+            "published-time": "2026-11-23T20:26:53+00:00"
         },
         {
             "name": "nystudio107/craft-twig-sandbox",
