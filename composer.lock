@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "bce78d3af0a6182737bd0bd9a0d87490",
+    "content-hash": "a4493077829364122c4ce00760cd7238",
     "packages": [
         {
             "name": "aws/aws-crt-php",
@@ -1663,7 +1663,8 @@
                 "issues": "https://github.com/DaveChild/Text-Statistics/issues",
                 "source": "https://github.com/DaveChild/Text-Statistics/tree/master"
             },
-            "time": "2018-08-21T08:17:10+00:00"
+            "time": "2018-08-21T08:17:10+00:00",
+            "published-time": "2018-08-21T08:17:44+00:00"
         },
         {
             "name": "defuse/php-encryption",
@@ -5380,7 +5381,8 @@
                     "type": "github"
                 }
             ],
-            "time": "2026-07-31T02:40:18+00:00"
+            "time": "2026-07-31T02:40:18+00:00",
+            "published-time": "2026-07-31T02:40:27+00:00"
         },
         {
             "name": "nystudio107/craft-plugin-vite",
@@ -5437,20 +5439,21 @@
                     "type": "github"
                 }
             ],
-            "time": "2026-08-01T20:20:58+00:00"
+            "time": "2026-08-01T20:20:58+00:00",
+            "published-time": "2026-08-01T20:21:09+00:00"
         },
         {
             "name": "nystudio107/craft-seomatic",
-            "version": "5.1.22",
+            "version": "5.1.23",
             "source": {
                 "type": "git",
                 "url": "https://github.com/nystudio107/craft-seomatic.git",
-                "reference": "cab0fe84ec5317172fd5627999b5b5b5067ab38d"
+                "reference": "a8db3684a8be6189847cd71a5af7333379f007e5"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/nystudio107/craft-seomatic/zipball/cab0fe84ec5317172fd5627999b5b5b5067ab38d",
-                "reference": "cab0fe84ec5317172fd5627999b5b5b5067ab38d",
+                "url": "https://api.github.com/repos/nystudio107/craft-seomatic/zipball/a8db3684a8be6189847cd71a5af7333379f007e5",
+                "reference": "a8db3684a8be6189847cd71a5af7333379f007e5",
                 "shasum": ""
             },
             "require": {
@@ -5535,20 +5538,21 @@
                     "type": "github"
                 }
             ],
-            "time": "2026-07-30T19:56:33+00:00"
+            "time": "2026-11-23T20:26:41+00:00",
+            "published-time": "2026-11-23T20:26:53+00:00"
         },
         {
             "name": "nystudio107/craft-twig-sandbox",
-            "version": "5.0.5",
+            "version": "5.0.6",
             "source": {
                 "type": "git",
                 "url": "https://github.com/nystudio107/craft-twig-sandbox.git",
-                "reference": "e4742fcf97ac01ab76d36118c357f0221c7a5ce0"
+                "reference": "83644d3312d389f1f9f831a127bad88ef363e5f3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/nystudio107/craft-twig-sandbox/zipball/e4742fcf97ac01ab76d36118c357f0221c7a5ce0",
-                "reference": "e4742fcf97ac01ab76d36118c357f0221c7a5ce0",
+                "url": "https://api.github.com/repos/nystudio107/craft-twig-sandbox/zipball/83644d3312d389f1f9f831a127bad88ef363e5f3",
+                "reference": "83644d3312d389f1f9f831a127bad88ef363e5f3",
                 "shasum": ""
             },
             "require": {
@@ -5597,7 +5601,8 @@
                     "type": "github"
                 }
             ],
-            "time": "2025-08-18T16:00:57+00:00"
+            "time": "2026-09-25T22:47:27+00:00",
+            "published-time": "2026-09-25T22:47:37+00:00"
         },
         {
             "name": "nystudio107/craft-twigpack",
@@ -6171,7 +6176,8 @@
                 "issues": "https://github.com/DavidBelicza/PHP-Science-TextRank/issues",
                 "source": "https://github.com/DavidBelicza/PHP-Science-TextRank/tree/1.2.4"
             },
-            "time": "2026-08-11T12:49:33+00:00"
+            "time": "2026-08-11T12:49:33+00:00",
+            "published-time": "2026-08-11T12:56:33+00:00"
         },
         {
             "name": "phpdocumentor/reflection-common",
@@ -8293,7 +8299,8 @@
                 "issues": "https://github.com/sunra/php-simple-html-dom-parser/issues",
                 "source": "https://github.com/sunra/php-simple-html-dom-parser/tree/master"
             },
-            "time": "2016-11-22T22:57:47+00:00"
+            "time": "2016-11-22T22:57:47+00:00",
+            "published-time": "2016-11-22T22:59:14+00:00"
         },
         {
             "name": "symfony/cache",
